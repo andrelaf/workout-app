@@ -1,3 +1,4 @@
 - Build home page
 - Install bootstrap
 - Create Sign-up user feature spec
+- Crete feature Spec for signing_users_in_spec.rb 
